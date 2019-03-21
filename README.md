@@ -2,7 +2,8 @@
 
 
 *March 2019*  
-*Ping Charoenwet - @phnx*
+*Ping Charoenwet - @phnx*  
+*Made for [KS-Barcode](https://ks-barcode.com)*
 
 ## Credits
 
